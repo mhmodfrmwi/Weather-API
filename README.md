@@ -1,4 +1,4 @@
-# Weather API with Redis Caching and Rate Limiting
+# Weather API
 
 ## Overview
 
